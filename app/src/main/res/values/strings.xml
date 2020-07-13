@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">ParseGit</string>
+    <string name="request">Request</string>
+    <string name="write_login">Write Login</string>
+    <string name="request_failed">Запрос не выполнен</string>
+    <string name="check_internet_connection">Проверьте подключение к интернету</string>
+    <string name="enter_user_login">Введите логин пользователя</string>
+    <string name="user_loaded">Пользователь загружен</string>
+</resources>
